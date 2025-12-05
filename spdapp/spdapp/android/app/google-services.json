@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106388971312",
+    "project_id": "superdaily-2ae6f",
+    "storage_bucket": "superdaily-2ae6f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106388971312:android:00954caf01b2d948f532f5",
+        "android_client_info": {
+          "package_name": "com.spdapp.spdapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJY4rF98VKdOH-xpRTuCNekxprbOlyxlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
